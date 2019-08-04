@@ -4,4 +4,4 @@ The Luhn algorithm, named after its creator, IBM scientist Hans Peter Luhn, is a
 
 The algorithm is in the public domain and is in wide use today.It is not intended to be a cryptographically secure hash function.
 
-- [source](https://en.wikipedia.org/wiki/Luhn_algorithm)
+
